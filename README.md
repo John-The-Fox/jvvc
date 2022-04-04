@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-bibliotecas uteis e comandos refenrentes
+<!--bibliotecas uteis e comandos refenrentes
 /*libraries*/
 #include <cstddef.h>
 
@@ -49,5 +49,5 @@ int main()
 
 #include <windows.h>
 
-
+-->
 
